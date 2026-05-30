@@ -1,0 +1,22 @@
+[
+    {
+        "username": "ROSA_RAMADANI23",
+        "password": "cdd773039f5b1a8f41949a1fccd0768f",
+        "algorithm": "md5"
+    },
+    {
+        "username": "ROSE",
+        "password": "6f6a4e56098cfd9af29e3ae549503b370211a4e94421457fe4cfd39a38a1fa08",
+        "algorithm": "sha256"
+    },
+    {
+        "username": "RAMADANI_ROSA23",
+        "password": "7e7a11a112e248de79f923822d324590",
+        "algorithm": "md5"
+    },
+    {
+        "username": "MISKAH",
+        "password": "624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4",
+        "algorithm": "sha256"
+    }
+]
